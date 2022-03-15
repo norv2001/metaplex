@@ -1,0 +1,9 @@
+# Query: main-banner.svg
+# ContextLines: 1
+
+1 result - 1 file
+
+js\packages\web\src\views\home\components\SalesList\index.tsx:
+  45          <Banner
+  46:           src="/theKeep-sans-white.svg"
+  47            headingText="The amazing world of Metaplex."
