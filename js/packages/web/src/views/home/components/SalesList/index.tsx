@@ -44,8 +44,8 @@ export const SalesListView = (props: { collectionMintFilter?: string }) => {
       {!props.collectionMintFilter && (
         <Banner
           src="/theKeep-sans-white.svg"
-          headingText="The amazing world of NFTs."
-          subHeadingText="Buy 1/1s, editions, and PFPs."
+          headingText="A new wayve of eco-friendly NFTs:"
+          subHeadingText="Buy 1/1s, limited editions, and PFPs."
           actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
           useBannerBg
         />
